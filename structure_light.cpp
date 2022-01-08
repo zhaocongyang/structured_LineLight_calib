@@ -1,3 +1,4 @@
+// use for calibration
 #include "structure_light.h"
 #include "struct_light_calib.h"
 

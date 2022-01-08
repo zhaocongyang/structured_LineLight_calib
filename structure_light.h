@@ -1,5 +1,5 @@
 
-// use foe calibration
+// use for calibration
 #ifndef STRUCTURE_LIGHT_H
 #define STRUCTURE_LIGHT_H
 

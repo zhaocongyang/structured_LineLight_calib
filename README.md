@@ -7,8 +7,9 @@
 
 ### lib
 You need to inatall opencv first
-    ```Shell
+    ```
     brew inatall opencv
+
     ```
 
 ### make
@@ -26,6 +27,7 @@ Fellow steps below to run the code:
 After make you can run by:
     ```
     ./target
+    
     ```
 
 ### result

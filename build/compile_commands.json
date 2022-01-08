@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/build",
+  "command": "/usr/local/bin/x86_64-apple-darwin21-g++-11  -isystem /usr/local/Cellar/opencv/4.5.4_2/include/opencv4 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++11 -o CMakeFiles/target.dir/main.cpp.o -c /Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/main.cpp",
+  "file": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/main.cpp"
+},
+{
+  "directory": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/build",
+  "command": "/usr/local/bin/x86_64-apple-darwin21-g++-11  -isystem /usr/local/Cellar/opencv/4.5.4_2/include/opencv4 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++11 -o CMakeFiles/target.dir/structure_light.cpp.o -c /Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/structure_light.cpp",
+  "file": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/structure_light.cpp"
+},
+{
+  "directory": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/build",
+  "command": "/usr/local/bin/x86_64-apple-darwin21-g++-11  -isystem /usr/local/Cellar/opencv/4.5.4_2/include/opencv4 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++11 -o CMakeFiles/target.dir/struct_light_calib.cpp.o -c /Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/struct_light_calib.cpp",
+  "file": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/struct_light_calib.cpp"
+},
+{
+  "directory": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/build",
+  "command": "/usr/local/bin/x86_64-apple-darwin21-g++-11  -isystem /usr/local/Cellar/opencv/4.5.4_2/include/opencv4 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++11 -o CMakeFiles/target.dir/structlight.cpp.o -c /Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/structlight.cpp",
+  "file": "/Users/zhaocongyang/Desktop/cpp_t/structured_LineLight_calib/structlight.cpp"
+}
+]

@@ -1,4 +1,5 @@
 
+// use foe calibration
 #ifndef STRUCTURE_LIGHT_H
 #define STRUCTURE_LIGHT_H
 
@@ -24,7 +25,7 @@ public:
 	std::vector<bool> isRecognize;
 
 	std::vector<std::vector<cv::Point3f>> calibBoardPoint;
-	std::vector<cv::Point3f> lightPlanePoint;
+	std::vector<cv::Point3f> lightPlanePoint;//交点的三维坐标
 	
 	std::vector<std::vector<cv::Point2f>> calibImagePoint;
 

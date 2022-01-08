@@ -1,10 +1,7 @@
 # Structure-Light sensor calibration 
 
-**Update on 2020/07/20.**  
+**Update on 2022/01/08.**  
 
-### TODO
-- [x] Support different backbones
-- [x] Multi-GPU training
 
 ![overview](doc/principle.jpg)
 
@@ -27,10 +24,11 @@ Fellow steps below to run the code:
 
 ### run
 After make you can run by:
-    ```Shell
+    ```
     ./target
     ```
 
 ### result
 You can find the calib result in Parameters.xml
+
 Pointcloud in laser atripe will be saves in pointcloud.txt

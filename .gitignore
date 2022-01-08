@@ -5,3 +5,5 @@ Makefile
 target
 save
 build
+.DS_Store
+.cache

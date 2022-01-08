@@ -5,31 +5,21 @@
 
 ![overview](doc/principle.jpg)
 
-### lib
-You need to inatall opencv first
-    ```
-    brew inatall opencv
+### env
+You need to inatall opencv first: brew inatall opencv
 
-    ```
 
-### make
+### make and run
 Fellow steps below to run the code:
 
 0. Configure your dataset path in ./calib_picture and ./light_picture
 
-1. To train LSDNN using our dataset and ResNet as backbone:
+1. To make and run the code:
     ```Shell
     cmake .
     make
-    ```
-
-### run
-After make you can run by:
-    ```
     ./target
-    
     ```
-
 ### result
 You can find the calib result in Parameters.xml
 
